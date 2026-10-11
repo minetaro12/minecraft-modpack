@@ -1,0 +1,13 @@
+name = "ExtraHearts"
+filename = "extrahearts-forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2709b0cdda9afa659934b93f12132d7c93266a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7883924
+project-id = 1417009

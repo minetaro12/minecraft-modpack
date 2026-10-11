@@ -1,0 +1,13 @@
+name = "The Trial Monolith"
+filename = "TheTrialMonolith-1.20.1-Forge-1.4.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "897ac70075efc2b77fcf5e39563b93c7c2b3f880"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8561617
+project-id = 1462850

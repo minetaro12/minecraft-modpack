@@ -1,0 +1,13 @@
+name = "L2 Hostility"
+filename = "l2hostility-2.5.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d48b7d69844828f15fdfd84e3a73ed565206b451"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7815389
+project-id = 909207

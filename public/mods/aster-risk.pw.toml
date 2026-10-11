@@ -1,0 +1,13 @@
+name = "Aster Risk"
+filename = "aster_risk-1.5.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5dcd6c71234d0d16d6c20ea51c73e2e83e1e34d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8704648
+project-id = 1408249

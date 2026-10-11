@@ -1,0 +1,13 @@
+name = "Apothic Infinite (Apotheosis Unofficial Addon)"
+filename = "apothic_infnite-2000.000007-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30c1ed913c125722cb78d0bc9b8fb4d0039b11fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8569361
+project-id = 1494222

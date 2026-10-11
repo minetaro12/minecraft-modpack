@@ -1,0 +1,13 @@
+name = "Ending Library - Linggango Variant"
+filename = "EndingLibraryTweaked-1.20.1-2.1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12e5e606b973d9c97a603572942e291e93c37340"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9000952
+project-id = 1577567

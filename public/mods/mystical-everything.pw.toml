@@ -1,0 +1,13 @@
+name = "Mystical Everything"
+filename = "mysticaleverything-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf83bd2ce7963f65b3f9177132f7a0195c72299c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8776009
+project-id = 1596717

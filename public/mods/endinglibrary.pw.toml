@@ -1,0 +1,13 @@
+name = "EndingLibrary"
+filename = "EndingLibrary-1.20.1-2.2.1fix-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "05cee8216ec28754619f59242ef0e58f242bea95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9038151
+project-id = 1471165

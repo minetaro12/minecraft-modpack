@@ -1,0 +1,13 @@
+name = "Fantasy Construct"
+filename = "fantasyconstruct-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0770a3f323b06fad132f3debb68330dee5fa947"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8570138
+project-id = 1527947

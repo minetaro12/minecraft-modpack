@@ -1,0 +1,13 @@
+name = "Fantasy Ending"
+filename = "fantasy_ending-1.20.1-2.7.20-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90c3e683bd222542dec2326122d743deee79712d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7642083
+project-id = 1420337

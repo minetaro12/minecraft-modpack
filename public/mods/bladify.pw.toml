@@ -1,0 +1,13 @@
+name = "SlashBlade：Bladify"
+filename = "[1.20.1]anythingslashblade-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78c5bc204dfbcf36f347dcedf4af00f8027f05f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7238195
+project-id = 1384599

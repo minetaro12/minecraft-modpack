@@ -1,0 +1,13 @@
+name = "Yaminabe Modpack"
+author = "minetaro12"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cb5699efb0228e961ad32a8f26e8ccc12170d8e1bc0c91f8d2e51e967b3195ec"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

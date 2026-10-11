@@ -1,0 +1,13 @@
+name = "Everything Compressed"
+filename = "EverythingCompressed-1.20.1-Forge-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "acfa07d000a9b98fa276c27909d858b7d25c2aa9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7391746
+project-id = 1415090

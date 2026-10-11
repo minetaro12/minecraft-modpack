@@ -1,0 +1,13 @@
+name = "TConstructJS"
+filename = "tconstruct_js-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec567d383778b35f8f5c85f0bc55ecf389682336"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8352452
+project-id = 1210790
