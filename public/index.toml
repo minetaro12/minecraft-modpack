@@ -234,11 +234,6 @@ hash = "97aeaa79addfa7794b88f267b17ecdc968add935870f941b2116d3aabeb8e85a"
 metafile = true
 
 [[files]]
-file = "mods/epic-fight-mod.pw.toml"
-hash = "cc04a459af3ff21b2aa09cde7ab562f33eb13c9d6d158c71d09cb4bc0bdee325"
-metafile = true
-
-[[files]]
 file = "mods/esoteric-reforging-forge.pw.toml"
 hash = "ce2bc8fbb6ebbc3571ed0ac531b473da80fb9feb8742e5ff5dd7d7271c0ed1d5"
 metafile = true
@@ -251,21 +246,6 @@ metafile = true
 [[files]]
 file = "mods/extrahearts.pw.toml"
 hash = "26e7d7a52b6b93c5cf9c8e958ae8b210f3756a084b25ad898d0c26bb78e75b8d"
-metafile = true
-
-[[files]]
-file = "mods/fantasy-construct.pw.toml"
-hash = "52349f2e8e4e6f1f45f3078710df22aa7c9133c7abd293442fbc4b0fc6d48626"
-metafile = true
-
-[[files]]
-file = "mods/fantasy-ending-fix.pw.toml"
-hash = "dbb486f80dc7cf160400b3bf11caf8a83d7624e54edeac85755560c835b95267"
-metafile = true
-
-[[files]]
-file = "mods/fantasy-ending.pw.toml"
-hash = "94c2b75689227793502531e365bc019fff315b9c82ecc146c036a89d6d436602"
 metafile = true
 
 [[files]]
@@ -301,16 +281,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
-metafile = true
-
-[[files]]
-file = "mods/goety-revelation.pw.toml"
-hash = "135be01a3f1b79e8580aa1a119336953acf2bf47625f71e8208982cf295338b8"
-metafile = true
-
-[[files]]
-file = "mods/goety.pw.toml"
-hash = "709b0a588234087f46f51767037a4da14149edcc37b1936c63f79b05cb268c40"
 metafile = true
 
 [[files]]
