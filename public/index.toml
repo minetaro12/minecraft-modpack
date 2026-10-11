@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "c62a030ff8a5e49936e7a100668f57456c9e6d44f192c7f036540b6661d4fcfd"
+
+[[files]]
+file = "kubejs/server_scripts/Apo.js"
+hash = "d645685f89e3acc2d17e4ced9ee5d6df6bca00bf0a8d69255fe9a9d2508ed1c2"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "6f87edf40bf0be7e7e266f9e2ff0bf7584c6bedff7975bad3259a21a60d1e598"
 metafile = true
@@ -23,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "c281ef574be46e4df3f7ed04b0a4b5f6d1b2a836b7d1d94c4a30be9c85d3adcb"
+metafile = true
+
+[[files]]
+file = "mods/apotheotic-additions.pw.toml"
+hash = "0fad8186fbeb910463e8b34629543c8d15c68baaa558b1501ccdc3caf15abeed"
 metafile = true
 
 [[files]]
@@ -156,6 +169,11 @@ hash = "4e962865901a85068050046089097447ffe735957c5c04a7e196f7e0f0a7acff"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "77f479f765b307ff09a3d0b90719bb3b929d59af193d1ed746dab513fe14f2c5"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
 metafile = true
@@ -218,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/epic-fight-mod.pw.toml"
 hash = "cc04a459af3ff21b2aa09cde7ab562f33eb13c9d6d158c71d09cb4bc0bdee325"
+metafile = true
+
+[[files]]
+file = "mods/esoteric-reforging-forge.pw.toml"
+hash = "ce2bc8fbb6ebbc3571ed0ac531b473da80fb9feb8742e5ff5dd7d7271c0ed1d5"
 metafile = true
 
 [[files]]
