@@ -154,6 +154,11 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "ecc19205a3523f1d410c75ab03c60e8b7089820a87ad275f36a4a220cc7b6744"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "74aeec9534ce02a06fdfe3c04d60f944eead173967dc88ac0592f96c7f8a0119"
 metafile = true
