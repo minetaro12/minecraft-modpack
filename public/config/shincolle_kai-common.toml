@@ -1,0 +1,222 @@
+
+#General settings
+[general]
+	#Enable debug messages (WARNING: very spammy)
+	debugMode = false
+	#Easy mode: decrease Large Construction resource requirements, increase ammo/grudge gained from items
+	easyMode = false
+	#Enable/disable friendly fire damage. false: disable damage done by non-owner players
+	friendlyFire = false
+	#Always show team circle indicator particle
+	alwaysShowTeamCircle = false
+	#Always show custom name tag above ships
+	showNameTag = true
+	#true: Polymetallic Nodules = Manganese Dust, Polymetallic Ore = Manganese Ore
+	polymetalAsMn = false
+	#For mob ships, true: attack player automatically
+	mobShipsAttackPlayer = true
+	#Enable depth effect while rendering Hadal Vortex block
+	depthHadalVortex = false
+	#Enable Wakamoto sound for mounts
+	useWakamoto = true
+	#Give each player one ShinColle-kai guide book on their first login. Players who already received it are not given another.
+	giveGuideBookOnFirstJoin = true
+	#Boss spawn cooldown in ticks (4800 = 4 minutes)
+	#Range: 20 ~ 1728000
+	bossCooldown = 4800
+	#Close inventory GUI if ship is X blocks away from player
+	#Range: 2 ~ 64
+	closeGuiDistance = 64
+	#How close ships approach a target, as a percent of their attack range.
+	#100 = hold at maximum range, 50 = close to half range before holding.
+	#Range: 10 ~ 100
+	engageDistance = 100
+	#Chunk loader mode: 0=disable, 1=only 1 chunk each ship, 2=3x3 chunks each ship
+	#Range: 0 ~ 2
+	chunkLoaderMode = 2
+	#Ship death animation time in ticks
+	#Range: 0 ~ 3600
+	deathTime = 400
+	#Despawn time of boss ships in ticks, -1 = do NOT despawn
+	#Range: -1 ~ 1728000
+	despawnBoss = 12000
+	#Despawn time of non-boss hostile ships in ticks, -1 = do NOT despawn
+	#Range: -1 ~ 1728000
+	despawnMinion = 600
+	#Despawn time of spawn egg of ship mob in ticks, -1 = do NOT despawn
+	#Range: -1 ~ 1728000
+	despawnEgg = 12000
+	#Recycle amount by Dismantle Hammer for common ships (e.g. Ro500)
+	#Range: 0 ~ 1000
+	recycleSmall = 20
+	#Recycle amount by Dismantle Hammer for rare ships (e.g. Yamato)
+	#Range: 0 ~ 1000
+	recycleLarge = 20
+	#Radar update interval (ticks) in Admiral's Desk GUI
+	#Range: 20 ~ 6000
+	radarUpdate = 64
+	#Number of ships per page for command: /ship list
+	#Range: 1 ~ 5000
+	commandShipNum = 5
+	#Create/Disband Team cooldown in ticks
+	#Range: 20 ~ 1728000
+	teamCooldown = 6000
+	#Large hostile ship (boss) count per spawn event
+	#Range: 1 ~ 10
+	spawnBossNumber = 2
+	#Small hostile ship count per spawn event
+	#Range: 1 ~ 10
+	spawnMobNumber = 4
+	#Max pairing distance between waypoint and chest (blocks)
+	#Range: 0 ~ 64
+	pairingDistChest = 16
+	#Max pairing distance between waypoints (blocks)
+	#Range: 0 ~ 64
+	pairingDistWaypoint = 48
+	#Show name tag if player is within X blocks of ship
+	#Range: 1 ~ 64
+	nameTagDistance = 16
+	#For pet ships: 0=don't attack player, 1=attack hostile player, 2=attack hostile and neutral player, 3=attack all players even if not in a team
+	#Range: 0 ~ 3
+	shipAttackPlayer = 0
+	#Grudge drop rate multiplier (e.g. 0.5 = 50% chance, 5.5 = drop 5 + 50% chance for 1 more)
+	#Range: 0.0 ~ 64.0
+	dropRateGrudge = 1.0
+	#Small shipyard settings: [max fuel storage, build speed, fuel magnification]
+	tileShipyardSmall = [460800.0, 48.0, 1.0]
+	#Large shipyard settings: [max fuel storage, build speed, fuel magnification]
+	tileShipyardLarge = [1382400.0, 48.0, 1.0]
+	#Volcano Core settings: [max fuel storage, fuel consume speed, fuel value per grudge item]
+	tileVolCore = [9600.0, 16.0, 240.0]
+	#Crane settings: [internal fluid tank capacity (mB), internal energy capacity (EU)]
+	tileCrane = [2048000, 160000000]
+	#Ring ability related to married number (-1=disable, 0~N=active/max limit): [water breath, fly in water, dig speed boost, fog in liquid, immune to fire]
+	ringAbility = [0, 6, 30, 20, 12]
+	#Can ship pump infinite liquid without destroying block: [min water depth, min lava depth]
+	infLiquid = [12, 8]
+	#HUD position of mount skills: [x, y] (0.5 = middle of window)
+	posHUD = [0.5, 0.6]
+
+#Ship combat and behavior settings
+[ship]
+	#Ship vs Ship damage modifier in percent (100 = 100%, 20 = 20%)
+	#Range: 0 ~ 10000
+	dmgTakenSvS = 100
+	#Maximum natural level for unmarried ships. Capped by maxLevel if set higher.
+	#Values through 1000 are supported; higher values are accepted but unsupported.
+	#Range: > 1
+	maxLevelUnmarried = 100
+	#Maximum level for married ships and administrative level changes.
+	#Also normalizes level-based expedition failure chance and luck.
+	#Values through 1000 are supported; higher values are accepted but unsupported.
+	#Range: > 1
+	maxLevel = 150
+	#Ship experience modifier. At level L, reaching the next level requires (L + 1) * this value experience.
+	#Range: 1 ~ 10000
+	expModifier = 20
+	#Max upgrade level per attribute by Modernization Toolkit
+	#Range: 3 ~ 100
+	attrsLimitModernization = 3
+	#Cooldown (ticks) for placing light block of searchlight
+	#Range: 1 ~ 256
+	cdSearchLight = 4
+	#Base cooldown for airplane recovery. Actual time = cdAirplaneRecovery / attack_speed + 20
+	#Range: 1 ~ 30000
+	cdAirplaneRecovery = 3600
+	#Base morale value gained per CaressTick (4 ticks)
+	#Range: 1 ~ 5000
+	caressBaseMorale = 20
+	#Number of additional equipment slots (Curios-backed, for third-party
+	#equipment such as Tinkers' Construct tools) appended to each ship's
+	#inventory screen. Has no effect if Curios is not installed.
+	#Must match between client and server.
+	#Range: 0 ~ 10
+	shipEquipSlotsCurios = 6
+	#Ship AI: NEW is the redesigned ship AI and the default. LEGACY keeps the previous AI and will be removed in a later version.
+	#Changes apply after ships rebuild their AI, such as after re-entering the world.
+	#Allowed Values: LEGACY, NEW
+	shipAiTargetAuthority = "NEW"
+	#Set automatically once shipAiTargetAuthority has been switched to NEW on update.
+	#Leave this as it is; to use the previous AI, set shipAiTargetAuthority = "LEGACY".
+	shipAiNewDefaultApplied = true
+	#Play timekeeping sound every 1000 ticks (1 Minecraft hour)
+	canTimekeeping = true
+	#Can ships spawn Flare lighting effect (CLIENT SIDE only)
+	canFlare = true
+	#Can ships spawn Searchlight lighting effect (CLIENT SIDE only)
+	canSearchlight = true
+	#Can ship teleport to owner/guarding position if too far away. NOTE: set false if ships often disappear/despawn after teleport!
+	canTeleport = true
+	#Dimensions where falling friendly ships are rescued near their owner under NEW. Empty disables rescue.
+	voidRescueDimensions = ["minecraft:the_end"]
+	#Should check wedding ring when spawning NON-BOSS ship mob
+	checkRing = true
+	#Ship attributes SCALE: [HP, firepower, armor, attack speed, move speed, range]
+	scaleShip = [1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+	#Ship attributes max limit (-1 = no limit): [HP, damage(light), damage(heavy), damage(air_light), damage(air_heavy), armor%, attack speed, move speed, range(blocks), critical, double hit, triple hit, miss reduction, anti-air, anti-ss, dodge, xp gain, grudge gain, ammo gain, hp regen, knockback resist]
+	limitShipAttrs = [-1.0, -1.0, -1.0, -1.0, -1.0, 0.8, 4.0, 0.6, 64.0, 0.9, 0.9, 0.9, 0.9, -1.0, -1.0, 0.75, -1.0, -1.0, -1.0, -1.0, 1.0]
+	#Ship attribute max limits by stable ID. Entries use namespace:path=value.
+	#These override limitShipAttrs for core attributes. -1 means no config limit.
+	#Example: ["addon:sonar_precision=0.75", "shincolle_kai:dodge=0.6"]
+	limitShipAttributesById = []
+	#Small boss base attribute values: [HP, firepower, armor, attack speed, move speed, range]
+	scaleBossSmall = [1600.0, 120.0, 0.5, 1.6, 0.38, 18.0]
+	#Large boss base attribute values: [HP, firepower, armor, attack speed, move speed, range]
+	scaleBossLarge = [3200.0, 240.0, 0.75, 2.0, 0.35, 22.0]
+	#Small mob ship base attribute values: [HP, firepower, armor, attack speed, move speed, range]
+	scaleMobSmall = [250.0, 25.0, 0.15, 0.7, 0.45, 12.0]
+	#Large mob ship base attribute values: [HP, firepower, armor, attack speed, move speed, range]
+	scaleMobLarge = [500.0, 50.0, 0.3, 0.9, 0.4, 15.0]
+	#Ship held item scaling: [scale, offset X, offset Y, offset Z]
+	scaleHeldItem = [2.5, 0.0, 0.0, 0.0]
+	#Ammo consumption per ship type: [DD, CL, CA, CAV, CLT, CVL, CV, BB, BBV, SS, AP] (max 45)
+	consumeAmmoShip = [1, 2, 2, 2, 2, 3, 3, 4, 4, 1, 1]
+	#Grudge consumption idle per ship type: [DD, CL, CA, CAV, CLT, CVL, CV, BB, BBV, SS, AP] (max 120)
+	consumeGrudgeShip = [5, 7, 8, 9, 8, 11, 12, 15, 14, 4, 3]
+	#Grudge consumption per action: [Light attack, Heavy attack, Light aircraft, Heavy aircraft, Moving per block]
+	consumeGrudgeAction = [4, 8, 6, 12, 3]
+	#Grudge consumption per task: [cooking, fishing, mining, crafting]
+	consumeGrudgeTask = [3, 30, 300, 2]
+	#Base attack speed for: [Melee, Light attack, Heavy attack, Carrier attack, Airplane attack]. Example: base 160, fixed delay 30 = (160 / ship_attack_speed + 30) ticks per attack
+	baseAttackSpeed = [40, 80, 120, 100, 100]
+	#Fixed attack delay for: [Melee, Light attack, Heavy attack, Carrier attack, Airplane attack]
+	fixedAttackDelay = [0, 20, 50, 35, 35]
+	#Exp gain for: [Melee, Light Attack, Heavy Attack, Light Aircraft, Heavy Aircraft, Move per Block (AP only), Other Action (AP only)]
+	expGain = [2, 4, 12, 8, 24, 1, 2]
+	#Exp gain per task: [Cooking, Fishing, Mining, Crafting]
+	expGainTask = [2, 20, 10, 1]
+	#Mob ship spawn settings: [max number in world, spawn probability (roll per player every 128 ticks), groups each spawn, min each group, max each group]
+	mobSpawn = [50, 10, 1, 1, 1]
+	#Liquid transport rate: [base transfer rate (mB/t), additional rate per enchantment (mB/t)]. Total Rate = (ShipLV * 0.1 + 1) * (BaseRate * #TotalPumps + EnchantRate * #TotalEnchantments)
+	drumLiquid = [40, 5]
+	#Ship teleport when following and guarding: [cooldown (ticks), distance (blocks^2)]
+	shipTeleport = [200, 256]
+	#Fishing time setting: [base, random] in ticks
+	tickFishing = [400, 600]
+	#Mining time setting: [base, random] in ticks
+	tickMining = [100, 200]
+	#Enable/disable tasks: [cooking, fishing, mining, crafting]
+	enableTask = [true, true, true, true]
+
+#Sound volume settings
+[sound]
+	#Timekeeping sound volume multiplier
+	#Range: 0.0 ~ 10.0
+	volumeTimekeeping = 1.0
+	#Ship voice sound volume multiplier
+	#Range: 0.0 ~ 10.0
+	volumeShip = 1.0
+	#Attack sound effect volume multiplier
+	#Range: 0.0 ~ 10.0
+	volumeAttack = 0.7
+
+#World generation settings
+[world]
+	#Polymetallic Ore clusters per chunk
+	#Range: 0 ~ 100
+	polymetalOreRate = 7
+	#Polymetallic Gravel clusters per chunk
+	#Range: 0 ~ 100
+	polymetalGravelRate = 4
+	#PolyGravel replacement blocks: [stone, gravel, sand, dirt]
+	polyGravelBaseBlock = [true, true, false, false]

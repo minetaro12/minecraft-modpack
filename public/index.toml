@@ -5,6 +5,14 @@ file = "config/apotheosis/adventure.cfg"
 hash = "c62a030ff8a5e49936e7a100668f57456c9e6d44f192c7f036540b6661d4fcfd"
 
 [[files]]
+file = "config/shincolle_kai-common.toml"
+hash = "b7d777e3d2044eaa46b53febd7cba2406ab9edeb08722b759c824bbd0c17347a"
+
+[[files]]
+file = "defaultconfigs/extrahearts-server.toml"
+hash = "b529c17817f0b56af72e8dd0c70e005e86b6b876383675417c454a72a11b3178"
+
+[[files]]
 file = "kubejs/server_scripts/Apo.js"
 hash = "d645685f89e3acc2d17e4ced9ee5d6df6bca00bf0a8d69255fe9a9d2508ed1c2"
 

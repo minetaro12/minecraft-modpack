@@ -1,0 +1,24 @@
+
+[Extra_Heart]
+	#If enabled, then items are visible, otherwise they are hidden and Golden Apples are the default for adding hearts.
+	#Default: true
+	enableExtraHeartItems = true
+	#Maximum number of EXTRA hearts a player can gain from this mod.
+	#Default: 10 (20 health points)
+	#Range: 0 ~ 1024
+	maxHeartsAllowed = 10
+	#The registry ID of the item used to gain health.
+	#Default: "extrahearts:extra_heart"
+	targetItem = "extrahearts:extra_heart"
+
+[Hardcore_Lite]
+	#Amount of health a player starts with for the first time (2.0 = 1 heart).
+	#Default: 0.0 // starting health ignored
+	#Range: 0.0 ~ 2048.0
+	startingHealth = 0.0
+	#If enabled, then on death a heart is removed. Heart icons resemble the hardcore versions.
+	#Default: true
+	hardcoreLite = false
+	#If enabled, players are put into Spectator mode upon losing their last heart.
+	#Default: true
+	enablePermaDeath = true
