@@ -1,0 +1,13 @@
+name = "Armor Damage Limit"
+filename = "ArmorDamageLimit-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc0a43eeabb9023ce5fef9ad608289da98fe13c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5769358
+project-id = 1112217

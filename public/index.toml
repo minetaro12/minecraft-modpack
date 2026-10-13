@@ -71,6 +71,11 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/armor-damage-limit.pw.toml"
+hash = "ead5dd137effcd1ef308f67bde9b5530c6896504aab44c01be36fe6366b6ec44"
+metafile = true
+
+[[files]]
 file = "mods/ars-magica-legacy.pw.toml"
 hash = "b65007a1ce53266b2bb219383ecd34dc6a86937f9a1fc237c9a6282689fbe0ff"
 metafile = true
