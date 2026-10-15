@@ -1,0 +1,13 @@
+name = "legendblade"
+filename = "legendblade-1.7.5-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94dac65a00cbd82f35a2565b80e438e756b58f5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6697179
+project-id = 1143899

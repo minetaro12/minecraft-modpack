@@ -396,6 +396,11 @@ hash = "d41cc823d05623576125dcd40325a6b433bb99ced0d9452dde962e67ed33bb27"
 metafile = true
 
 [[files]]
+file = "mods/legendblade.pw.toml"
+hash = "97ab1bedd539b984c83f9198f397539f5fea14b1f5effb42405d457cf2bfb517"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "ee79f551b7aede4b923fc6df137c4ebbb1dd21eb80a3aaba6da8be93ac5010e7"
 metafile = true
@@ -551,6 +556,11 @@ hash = "7f281333e1c573bc3673446c291d82f3137bfc7de6a5256d61417f67be7b40bc"
 metafile = true
 
 [[files]]
+file = "mods/sjap.pw.toml"
+hash = "09b40d51eb708371754d62207e3952f39efdd6ed25b3c63a0158f7d83bbb70fb"
+metafile = true
+
+[[files]]
 file = "mods/slashblade-resharped.pw.toml"
 hash = "efd906678d345d1296dc2d1641a5a6b0bb59815d498756ce1a852ff228bd78b2"
 metafile = true
@@ -603,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
+metafile = true
+
+[[files]]
+file = "mods/the-last-smith.pw.toml"
+hash = "8a7a76959fd440c29f27ad9eb7bdd9cc8f7f4b34a3909e9eecc78e2f4441ae8c"
 metafile = true
 
 [[files]]

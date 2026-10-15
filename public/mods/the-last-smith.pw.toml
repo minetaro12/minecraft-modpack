@@ -1,0 +1,13 @@
+name = "The Last Smith"
+filename = "last_smith-1.1.10-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "debaa6048718e48514d4c5770266047ca2d4a7c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7564978
+project-id = 306385

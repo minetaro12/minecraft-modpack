@@ -1,0 +1,13 @@
+name = "SlashBlade Japanese Addon Pack"
+filename = "SJAP_Resharpened-1.20.1-1.2.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c2e763622cfac3f7585303c0b204ea303e2f21d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7039817
+project-id = 310187
