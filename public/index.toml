@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "887ed2e25880009d1fac1c8522b10cda7da02e61962b17132f4777c2fd87a8a8"
+hash = "a067b322804f822b76487ed38e8b426380adafadca582b6b7e2f698697fab808"
 metafile = true
 
 [[files]]
@@ -382,6 +382,16 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "fb6bc6818c540a40075098213ce8a2684914ec45eaef27c8ed9caf7eb5a210cb"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "143102be700d30cf68d0988bc9f1b523545e37b7074ee786faac56a388e6f0e9"
 metafile = true
 
 [[files]]
