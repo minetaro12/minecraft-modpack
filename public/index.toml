@@ -5,6 +5,10 @@ file = "config/apotheosis/adventure.cfg"
 hash = "c62a030ff8a5e49936e7a100668f57456c9e6d44f192c7f036540b6661d4fcfd"
 
 [[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "943fbd27e0625dc3e0215832c08ba0d87b5729eb3aa866affa320ab9a50e028d"
+
+[[files]]
 file = "config/infernalmobs.cfg"
 hash = "0890a357bc4feca0b1429a8474b6e62525ede467982714544dcdf44cd7013194"
 
