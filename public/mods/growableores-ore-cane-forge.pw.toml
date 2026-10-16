@@ -1,0 +1,13 @@
+name = "GrowableOres - Ore Cane(Forge)"
+filename = "GrowableOres-3.8.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db5b92b72cead401b99ea28ae1ebe8ea1e47b9c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8738091
+project-id = 1034804

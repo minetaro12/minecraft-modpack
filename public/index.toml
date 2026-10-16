@@ -216,6 +216,11 @@ hash = "e50740a50bdeef70e78fc991fbc8eee9dbb4bacd11f5e7cbf10f4c46cb5fd0aa"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "887ed2e25880009d1fac1c8522b10cda7da02e61962b17132f4777c2fd87a8a8"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "400396918f6581f7157a25c5dda75fd620d16fd8565201a5e7aee30f6c7df8b0"
 metafile = true
@@ -318,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/grimoire-of-gaia.pw.toml"
 hash = "8df73d5cb8ce5a3ba08791c248a57c4b277bb356840167818baeac8e946e96a2"
+metafile = true
+
+[[files]]
+file = "mods/growableores-ore-cane-forge.pw.toml"
+hash = "d7612acc88c37774ad9f2aa7483a1bc67f76da9af34427eafb47fdcea6af8628"
 metafile = true
 
 [[files]]
