@@ -585,11 +585,6 @@ hash = "efd906678d345d1296dc2d1641a5a6b0bb59815d498756ce1a852ff228bd78b2"
 metafile = true
 
 [[files]]
-file = "mods/slashblade.pw.toml"
-hash = "de885d0e4a3ae652ff2f514314919b763d4dcdc2e9a5cd6f9321ea044de7ff38"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
 metafile = true
