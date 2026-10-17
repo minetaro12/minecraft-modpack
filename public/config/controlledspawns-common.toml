@@ -54,7 +54,7 @@
 	#Only non-default chances are stored. Range: 0 to 100; default is 100.
 	spawnChancePercent = []
 	#Maximum loaded entities of each type per dimension. Positive values only; absent means unlimited.
-	loadedDimensionCaps = ["slashblade:slash_effect=1000"]
+	loadedDimensionCaps = ["slashblade:slash_effect=500"]
 
 #Baby rules are evaluated from the spawned entity because babies share the adult entity ID.
 [baby_rules]
@@ -64,4 +64,3 @@
 	blockedBabyEntities = []
 	#Baby-form exception to blockAllBabies. Normal category/entity rules still apply.
 	allowedBabyEntities = []
-
