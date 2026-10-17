@@ -10,7 +10,7 @@ hash = "943fbd27e0625dc3e0215832c08ba0d87b5729eb3aa866affa320ab9a50e028d"
 
 [[files]]
 file = "config/controlledspawns-common.toml"
-hash = "c0f6a7c0fd0612113d0dce6dc9dfdd1c4e3992b965bfd912e4bf9b45a4f23668"
+hash = "6e0651582ef53e5cd3f51572f72650fcfd159eee23bf76a5e615f24e3cb12264"
 
 [[files]]
 file = "config/infernalmobs.cfg"
