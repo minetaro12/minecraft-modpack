@@ -1,0 +1,13 @@
+name = "Controlled"
+filename = "Controlled-Forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e9fe3bd5c086ae0b5aa6ea5071f1a5f2430daab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8649173
+project-id = 1621971

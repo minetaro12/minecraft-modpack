@@ -9,12 +9,16 @@ file = "config/apotheosis/garden.cfg"
 hash = "943fbd27e0625dc3e0215832c08ba0d87b5729eb3aa866affa320ab9a50e028d"
 
 [[files]]
+file = "config/controlledspawns-common.toml"
+hash = "ed52da03a155a7bba323ef50c25b21eadfcd1aa941b55c21ac96d8c49022b421"
+
+[[files]]
 file = "config/infernalmobs.cfg"
-hash = "0890a357bc4feca0b1429a8474b6e62525ede467982714544dcdf44cd7013194"
+hash = "644e0d6b6086fc721fcdabf0aac8cb7a9454a99b731941a73296ffc2d06581a2"
 
 [[files]]
 file = "config/shincolle_kai-common.toml"
-hash = "b7d777e3d2044eaa46b53febd7cba2406ab9edeb08722b759c824bbd0c17347a"
+hash = "393d12f1af016ad6592a921c6a15e32f1dd896a3fe48eacc90f9c82e2dacc5aa"
 
 [[files]]
 file = "defaultconfigs/extrahearts-server.toml"
@@ -182,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "1613f68b9bdd242a957a3a20c5193b640672d11087abcb5c3abe5da45b235e35"
+metafile = true
+
+[[files]]
+file = "mods/controlled.pw.toml"
+hash = "a6c894199c5394f61e53929de9b1c7b59fedb30e75f38bae8e11b21cc81daff2"
 metafile = true
 
 [[files]]

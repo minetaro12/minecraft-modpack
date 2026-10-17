@@ -1,0 +1,67 @@
+
+#Controlled is inert by default.
+#Set enabled=true only after choosing rules in the in-game screen.
+[general]
+	#Master switch. False means this mod changes no spawning.
+	enabled = true
+	#Also prevent blocked entities loaded from saved chunks. Off by default to preserve worlds.
+	removeExistingEntities = false
+	#Never remove an already-existing mob with a custom name.
+	protectNamedEntities = true
+	#Never remove an already-existing vanilla/Forge tameable mob owned by a player.
+	protectTamedEntities = true
+	#Log blocked spawns. Useful for troubleshooting; noisy in large packs.
+	debugLogging = false
+
+#Choose which creation sources entity rules affect.
+[spawn_sources]
+	#Natural, patrol, chunk-generation and structure spawning.
+	naturalAndWorldGeneration = true
+	#Vanilla and compatible modded mob spawners.
+	spawners = true
+	#Breeding and jockey/passenger creation.
+	breedingAndJockeys = true
+	#Raids, events, triggered and mob-summoned creation.
+	eventsAndTriggered = true
+	#Conversions and reinforcements.
+	conversionsAndReinforcements = true
+	#Entities released from buckets and dispensers.
+	bucketsAndDispensers = true
+	#Spawn eggs. Off by default so disabled mobs can still be tested.
+	spawnEggs = false
+	#Commands such as /summon. Off by default for administration and testing.
+	commands = false
+	#Unknown/custom mod spawn paths and non-mob entities added directly to the world.
+	unknownOrDirectSpawns = true
+
+#Rule precedence: explicit entity allow > explicit block > blocked mod/category > baby rules.
+#Entity IDs use namespace:path, such as minecraft:zombie.
+[rules]
+	#Entities blocked regardless of category or source selection.
+	blockedEntities = []
+	#Whitelist. These entities bypass blocked mods, categories and baby rules.
+	allowedEntities = []
+	#Valid values: hostile, friendly, ambient, water, boss, misc.
+	blockedCategories = []
+	#Mod namespaces whose entities are blocked, such as alexsmobs.
+	blockedMods = []
+	#Optional modded entity IDs that should also appear in the Boss category.
+	customBossEntities = []
+
+#Per-entity tuning stored as entity_id=value entries.
+#Use the searchable in-game entity screen so IDs never need to be typed manually.
+[tuning]
+	#Only non-default chances are stored. Range: 0 to 100; default is 100.
+	spawnChancePercent = []
+	#Maximum loaded entities of each type per dimension. Positive values only; absent means unlimited.
+	loadedDimensionCaps = ["slashblade:slash_effect=1000"]
+
+#Baby rules are evaluated from the spawned entity because babies share the adult entity ID.
+[baby_rules]
+	#Block baby variants for every detectable mob.
+	blockAllBabies = false
+	#Only block the baby form of these entity IDs.
+	blockedBabyEntities = []
+	#Baby-form exception to blockAllBabies. Normal category/entity rules still apply.
+	allowedBabyEntities = []
+

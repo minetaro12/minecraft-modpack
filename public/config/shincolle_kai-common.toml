@@ -186,7 +186,7 @@
 	#Exp gain per task: [Cooking, Fishing, Mining, Crafting]
 	expGainTask = [2, 20, 10, 1]
 	#Mob ship spawn settings: [max number in world, spawn probability (roll per player every 128 ticks), groups each spawn, min each group, max each group]
-	mobSpawn = [50, 10, 1, 1, 1]
+	mobSpawn = [100, 20, 1, 2, 3]
 	#Liquid transport rate: [base transfer rate (mB/t), additional rate per enchantment (mB/t)]. Total Rate = (ShipLV * 0.1 + 1) * (BaseRate * #TotalPumps + EnchantRate * #TotalEnchantments)
 	drumLiquid = [40, 5]
 	#Ship teleport when following and guarding: [cooldown (ticks), distance (blocks^2)]
