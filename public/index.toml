@@ -31,6 +31,11 @@ hash = "c0776a83b0551282f63cb86c8a73c50f4b190a1792a877a8e39d1e78d27398bd"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "2f62a5eb5fcd3b2a9cd374376cc996c4cc96934a190fc8b08fdaa7bc42c9fbf1"
 metafile = true
@@ -52,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
+hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
 
 [[files]]
@@ -71,8 +76,28 @@ hash = "6ce811c9c510ec1de835da326ac80aac193b5eb7ca547ff876ec820190d9592d"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "a5f1ed5b3a42776a7cd2d7bb2164d0a83e171fbb30ed25a09b670f314797764a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "62f164a7b7c8731436389dc1855862d1eb1fa73fd76407b0fb8d129b7b6f00a9"
+metafile = true
+
+[[files]]
 file = "mods/o-s-pets.pw.toml"
 hash = "e729d397442956108060610792b8ccccb807291bbc96aa99e098fc61b4abb5da"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "886b06961e7a2fdd4846cb9230f39d6b85ec7ae1f884dab6f3bacd657a0d25e1"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
@@ -83,4 +108,14 @@ metafile = true
 [[files]]
 file = "mods/sizeable-foliage.pw.toml"
 hash = "29bfc31263bed699f58172c1de3c30a0bc9bc0a3bf37e324fbd4f2209be434ea"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "006a4eff494be9b351aaa0ce827f5a0e0ecbae167070e03c2601a9bf4cce5dc1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
 metafile = true
