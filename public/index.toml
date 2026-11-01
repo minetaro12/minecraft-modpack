@@ -141,6 +141,11 @@ hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "90cbaae12e213dbbfa543bce9bf90ed1d8cf8519afb18cd210bfa46a3ba635e2"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-fabric.pw.toml"
 hash = "aa91d941b62d1cf9204406ac6af5017679cf59f2f9860bef9e0ff4b70011ceda"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "cbeb48d7af1bcb06af49d2b1d443929dc144cd36922006a6a66f3e1d0777cc5c"
 metafile = true
 
 [[files]]
@@ -226,6 +236,11 @@ hash = "692453b7904b20c215fcdbd8bd6dd5df6bdca5de859e44b93604d41799d131a1"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "7636dffc0864fe7852a5f95d5d9575b164473cdc71230971d529af848bd45f86"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
@@ -258,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "886b06961e7a2fdd4846cb9230f39d6b85ec7ae1f884dab6f3bacd657a0d25e1"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "c0fb35b9b9754549845f905fa6651d7edc5227599bb4e32c4829ca1a975cd93e"
 metafile = true
 
 [[files]]
