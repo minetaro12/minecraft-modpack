@@ -96,6 +96,11 @@ hash = "adefa52fbd4e519aff17d539d0bc04cf83bfb0255a61f7cabb1070a1f380aa55"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "3fefd391fd1f2da24db0dc4cb1a1fc70b9d8fd3f9d75b1cdf2f48a1145595d51"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "634aebadcd1b5215eca516ab761058515abf791ae3fb0f229917376e65fc34d6"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "9473554d1bd68148f23f4f0f09023cd44a85eed6b639c812eab7759110ac1e81"
+metafile = true
+
+[[files]]
+file = "mods/epherolib.pw.toml"
+hash = "0b2e1a210620c7c5566b5e2fc5c04985cebda4aa242ece7dff99048d733c0cf5"
 metafile = true
 
 [[files]]
