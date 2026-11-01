@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quarryplus.toml"
-hash = "5c9b6f0d3a7cc17ff467fead262553058de7f6a6c2ce47a1bbe7794f53b8a6f8"
+hash = "84ee5c125bdf9106f791497ca52ebd0ab0abe3b2a07107ec62e25542ea5ad0b2"
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"

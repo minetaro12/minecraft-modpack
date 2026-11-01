@@ -15,7 +15,7 @@ customPlayer = false
 #Remove Minecart with Chest when processing blocks. Default: true
 removeMinecartWithChest = true
 #Enable No Energy mode. Default: false
-noEnergy = false
+noEnergy = true
 #Convert Deepslate ores to normal ores. Default: false
 convertDeepslateOres = false
 #Enable Chunk Loader in machines. Default: true
