@@ -1,4 +1,4 @@
-name = "Yaminabe Modpack"
+name = "fabric-1.21.1"
 author = "minetaro12"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3eb34f62f1d4af6708191cf0d9d72bec04dc9e184ce30beac9a83dd3ed427830"
+hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
 
 [versions]
-forge = "47.4.10"
-minecraft = "1.20.1"
+fabric = "0.20.1"
+minecraft = "1.21.1"
