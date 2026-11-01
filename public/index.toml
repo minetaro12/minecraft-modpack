@@ -46,13 +46,73 @@ hash = "4f985a09bd24f7565e32063db21cc2deeb6fa1e59f3ee380580936492bb2e5a8"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "6d4de3bf124c98a61c022477e07c8386940d4804001f5f71b322c9b1b74cb5c2"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8b88002d02470c59f0a796aaaab877b16cd5d52b64a20c088c462354737189eb"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "49959ed7f5d7d6f8893856afe6674d7b34c2f5d6831c7c0c75550feec103e90d"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "adefa52fbd4e519aff17d539d0bc04cf83bfb0255a61f7cabb1070a1f380aa55"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "634aebadcd1b5215eca516ab761058515abf791ae3fb0f229917376e65fc34d6"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "24d6c27315866a6dd672daef2f844b1b202aa173953824cb3586bed8667f3d5c"
 metafile = true
 
 [[files]]
 file = "mods/doggy-talents-next.pw.toml"
 hash = "ccaf3974cf2c73b22d24b4da6f32f21ffb642238ccc0e5b2ed97f095912f49b3"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "9473554d1bd68148f23f4f0f09023cd44a85eed6b639c812eab7759110ac1e81"
 metafile = true
 
 [[files]]
@@ -68,6 +128,21 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "90cbaae12e213dbbfa543bce9bf90ed1d8cf8519afb18cd210bfa46a3ba635e2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "2437f4418cdf9274c478f777007c8ad85767970ce00fb116d5e387147333206d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "aa91d941b62d1cf9204406ac6af5017679cf59f2f9860bef9e0ff4b70011ceda"
 metafile = true
 
 [[files]]
@@ -91,6 +166,11 @@ hash = "6ce811c9c510ec1de835da326ac80aac193b5eb7ca547ff876ec820190d9592d"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "e7820822a31d29cf5227b19046d7e84e73b7ae3e689c96e5fbdf1f8073b6f9ad"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "fd56a0cff0fa0172c35309f52e7bf76731abde661b03977bc8380bba687cbe98"
 metafile = true
@@ -106,8 +186,28 @@ hash = "a5f1ed5b3a42776a7cd2d7bb2164d0a83e171fbb30ed25a09b670f314797764a"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "d116d6210ea13ed6f95d7b01b2c7bb6e9716e85e56c081cc89d845338b11670c"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "78eafe609d6474acab89104fe0f47d15c00348974c1d4d9b95599ee20a213dbe"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "2bcb1edcb91a1fb3ee71aab8a0916845c8be3b10cc39128bf118bbd94205679c"
 metafile = true
 
 [[files]]
@@ -126,8 +226,23 @@ hash = "62f164a7b7c8731436389dc1855862d1eb1fa73fd76407b0fb8d129b7b6f00a9"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+metafile = true
+
+[[files]]
 file = "mods/o-s-pets.pw.toml"
 hash = "e729d397442956108060610792b8ccccb807291bbc96aa99e098fc61b4abb5da"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "44f1ed305b7a592bb399132cd9790ef0c78123d9ffd3306f2e08a7d1f1c11252"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
@@ -141,6 +256,16 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "ad447a2dd2f75a48a4bea59bc2d709a9af427aa7583fede93c8b864a0fe0ac88"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
+metafile = true
+
+[[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "cb75addbbd8d318e1202c73ce22863f03faac6bf02abdb4ca4ebcc0b6a57aea9"
 metafile = true
@@ -151,6 +276,11 @@ hash = "29bfc31263bed699f58172c1de3c30a0bc9bc0a3bf37e324fbd4f2209be434ea"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "253cc58c6ed1e62c39fcf762f92d259d3bb67840fe2aa51e42adce2aeffd5fda"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "006a4eff494be9b351aaa0ce827f5a0e0ecbae167070e03c2601a9bf4cce5dc1"
 metafile = true
@@ -158,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
