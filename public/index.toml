@@ -105,6 +105,11 @@ hash = "adefa52fbd4e519aff17d539d0bc04cf83bfb0255a61f7cabb1070a1f380aa55"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand-fabric.pw.toml"
+hash = "dd739f3873de08e81f7a519a2a89e58ce34b44f308eb25e92ca1cc50bea31cd8"
+metafile = true
+
+[[files]]
 file = "mods/croptopia.pw.toml"
 hash = "3fefd391fd1f2da24db0dc4cb1a1fc70b9d8fd3f9d75b1cdf2f48a1145595d51"
 metafile = true
