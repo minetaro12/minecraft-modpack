@@ -61,8 +61,23 @@ hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1368a492f66f774f2fa5a8d4da5a36e617017a45e3f3713d274b2398a284a6ea"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9a98d8e1a0e8453f43fa01b8c0c0de6b93058b4784c9c2f54f0fbda9588da682"
 metafile = true
 
 [[files]]
@@ -76,8 +91,33 @@ hash = "6ce811c9c510ec1de835da326ac80aac193b5eb7ca547ff876ec820190d9592d"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "fd56a0cff0fa0172c35309f52e7bf76731abde661b03977bc8380bba687cbe98"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "21268b01e4a26f84e0ea281a2a04269abf8484a5bf8f6ecb4ade32988742d2ee"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "a5f1ed5b3a42776a7cd2d7bb2164d0a83e171fbb30ed25a09b670f314797764a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "692453b7904b20c215fcdbd8bd6dd5df6bdca5de859e44b93604d41799d131a1"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
 
 [[files]]
@@ -118,4 +158,14 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "96f866de9f3ebaa42dfcb92392684c241ff189f82ce24c3e7a32c1d0b8f37db8"
 metafile = true
