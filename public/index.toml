@@ -1,2 +1,86 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "e6dfb53a4a4ebfba4030d4ae4133ba6d665b52399370796fb9b4416aa6799709"
+metafile = true
+
+[[files]]
+file = "mods/adorable-hamster-pets.pw.toml"
+hash = "79371a95b640ffdc1e80f4f42f7544263ebce248e3b042f7269e908efdd8b6c8"
+metafile = true
+
+[[files]]
+file = "mods/all-stackable.pw.toml"
+hash = "0713792f74ed7e0bd8fa1c8c8c45521c6ed06fbf9aa506ca6103e783d7fec5b9"
+metafile = true
+
+[[files]]
+file = "mods/antarchy.pw.toml"
+hash = "e1984d58a806ecfe61b6d3f6110904c1c0900a297531ee90b8473d4459d98bd1"
+metafile = true
+
+[[files]]
+file = "mods/anthology.pw.toml"
+hash = "939625e73dd96b83bce1a03189b6abd387c6afba774d3ce137f980a6fea3c0df"
+metafile = true
+
+[[files]]
+file = "mods/antos.pw.toml"
+hash = "c0776a83b0551282f63cb86c8a73c50f4b190a1792a877a8e39d1e78d27398bd"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "2f62a5eb5fcd3b2a9cd374376cc996c4cc96934a190fc8b08fdaa7bc42c9fbf1"
+metafile = true
+
+[[files]]
+file = "mods/automatic-potato.pw.toml"
+hash = "4f985a09bd24f7565e32063db21cc2deeb6fa1e59f3ee380580936492bb2e5a8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "9e21cc4fae5ed88e306b4601c5e1533f883aa8b60c6e36dedeec82718be87059"
+metafile = true
+
+[[files]]
+file = "mods/doggy-talents-next.pw.toml"
+hash = "ccaf3974cf2c73b22d24b4da6f32f21ffb642238ccc0e5b2ed97f095912f49b3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "774fd0adcb4fdc2e8f90991fe3515e68f21d41a10b9daa8094bb2f7b78790df6"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "1368a492f66f774f2fa5a8d4da5a36e617017a45e3f3713d274b2398a284a6ea"
+metafile = true
+
+[[files]]
+file = "mods/infinite-dimensions.pw.toml"
+hash = "63d2f470e8e4cf65ba875af512ba391c30b7cd247cf2101ce5cd447cfacf97bb"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "6ce811c9c510ec1de835da326ac80aac193b5eb7ca547ff876ec820190d9592d"
+metafile = true
+
+[[files]]
+file = "mods/o-s-pets.pw.toml"
+hash = "e729d397442956108060610792b8ccccb807291bbc96aa99e098fc61b4abb5da"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "cb75addbbd8d318e1202c73ce22863f03faac6bf02abdb4ca4ebcc0b6a57aea9"
+metafile = true
+
+[[files]]
+file = "mods/sizeable-foliage.pw.toml"
+hash = "29bfc31263bed699f58172c1de3c30a0bc9bc0a3bf37e324fbd4f2209be434ea"
+metafile = true

@@ -1,0 +1,13 @@
+name = "O.S Pets - Evolving Companions"
+filename = "OS-Pets-3.5.1fabric-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc0c3726293f1ee053b0b7374849ea6ee1074a35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9332933
+project-id = 1752203

@@ -1,0 +1,13 @@
+name = "automatic-potato"
+filename = "VersionCheckerMod-2.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1b75d3330a0d65d8022688962178834dea9507e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7473842
+project-id = 973884

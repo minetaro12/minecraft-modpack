@@ -1,0 +1,13 @@
+name = "Antarchy"
+filename = "antarchy-2.2.9+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e655e2a4ed09d6ce9addaf9ea20f5c540f41605"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9325139
+project-id = 1504802
