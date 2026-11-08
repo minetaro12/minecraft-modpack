@@ -1,0 +1,13 @@
+name = "Strata: Great Ore Deposits"
+filename = "godbg-1.1.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00d95c2bafef07ef6d82ca41247a8c5e0c28b251"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9422966
+project-id = 1744918

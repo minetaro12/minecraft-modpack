@@ -1,0 +1,13 @@
+name = "[Let's Do] BloomingNature"
+filename = "letsdo-bloomingnature-neoforge-1.1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Vno77MY/versions/EKgADGat/letsdo-bloomingnature-neoforge-1.1.12.jar"
+hash-format = "sha512"
+hash = "769d21901af97fe8434ad2d5948e5d8c144141f80949542a77a2c327f77e6fe6a4547fa9dbb76bdb16d46073d65be618974a7f3fc8026b69021aefd695950c40"
+
+[update]
+[update.modrinth]
+mod-id = "4Vno77MY"
+version = "EKgADGat"

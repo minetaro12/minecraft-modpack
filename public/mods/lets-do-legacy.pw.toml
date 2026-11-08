@@ -1,0 +1,13 @@
+name = "[Let's Do] Legacy"
+filename = "legacy-neoforge-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DP7M2DdM/versions/ZZe7oMAD/legacy-neoforge-1.0.3.jar"
+hash-format = "sha512"
+hash = "025600d1d2f2ca6dc2e9f90423fdba417dc89cedc2ec9729a2d026e6977054ba99524a1eec1ac6c09e4a14f5ec68da1082813e8a43bafff3641224daa7f2dc84"
+
+[update]
+[update.modrinth]
+mod-id = "DP7M2DdM"
+version = "ZZe7oMAD"

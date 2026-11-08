@@ -1,0 +1,13 @@
+name = "[Let's Do] Smoker"
+filename = "smoker-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j6CTL5tN/versions/xhiNRgdc/smoker-1.0.3.jar"
+hash-format = "sha512"
+hash = "270c7d31ea3841f197337312086c7c60c5e6633afc51c165f3e86fe532dfcbe919a6d79d90ed2dc0e2329a953d0a5297c756398edc0ef832b18f965a626e5d5e"
+
+[update]
+[update.modrinth]
+mod-id = "j6CTL5tN"
+version = "xhiNRgdc"

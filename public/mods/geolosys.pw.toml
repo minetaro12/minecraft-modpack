@@ -1,0 +1,13 @@
+name = "Geolosys"
+filename = "Geolosys-1.21.1-8.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aPBZx3jD/versions/CknTdMiq/Geolosys-1.21.1-8.0.3.jar"
+hash-format = "sha512"
+hash = "69a0c1d222d4aeb48c0f43ac92036f060e5464226c8b8a344f36b63bb3463f31040561f570d5a8526f580d65efcb50defb02526ce6e9a2ec5e4df634122b0e4b"
+
+[update]
+[update.modrinth]
+mod-id = "aPBZx3jD"
+version = "CknTdMiq"
