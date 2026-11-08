@@ -1,0 +1,13 @@
+name = "Create: Compatible Storage"
+filename = "create_compatible_storage-2.14.0-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5ofroZ5W/versions/EJPTNOry/create_compatible_storage-2.14.0-mc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "ac77f62083c577766e22f034462063ab063aa766604479b3f07b2b707bf599782601e75bbc0d2d979c356eb9eb4cc61cb035d4da11fab0dc3cdb630b3137697f"
+
+[update]
+[update.modrinth]
+mod-id = "5ofroZ5W"
+version = "EJPTNOry"

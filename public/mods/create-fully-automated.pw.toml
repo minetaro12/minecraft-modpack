@@ -1,0 +1,13 @@
+name = "Create: Fully Automated"
+filename = "create_fully_automated_neoforge-2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8f6jkgAa/versions/An4Ms1Sz/create_fully_automated_neoforge-2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "9b0942a00d2677c74e6e48db7d2da263e9ac51284c498254b22ea5096249f37fb7f71545eae77d42b96778468f74a39bb7e509e098415830486fe9cf0deb7117"
+
+[update]
+[update.modrinth]
+mod-id = "8f6jkgAa"
+version = "An4Ms1Sz"

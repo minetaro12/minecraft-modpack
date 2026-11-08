@@ -1,0 +1,13 @@
+name = "Create: Netherless"
+filename = "create_netherless-2.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6YVagaSv/versions/krSe5fet/create_netherless-2.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "eb8d6aa799dcad56a53a4a76884ece5a4197c9ef6e431602335971e8ca024b77133327e73d2e0214b17001f9cb18a786b79963f8d883150b6d7764d0c44a15d5"
+
+[update]
+[update.modrinth]
+mod-id = "6YVagaSv"
+version = "krSe5fet"
