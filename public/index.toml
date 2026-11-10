@@ -631,6 +631,11 @@ hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
+file = "mods/prometheus-exporter.pw.toml"
+hash = "2356d493ae2ab9cd519462f9394de539b216d36a782d5433e65e929ea7927947"
+metafile = true
+
+[[files]]
 file = "mods/railways-untold.pw.toml"
 hash = "219a3f10bd28afdacd61638da2eb491b4143fc354953173433ef59dcbb9a81ef"
 metafile = true
