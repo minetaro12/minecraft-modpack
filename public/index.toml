@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".wrangler/cache/wrangler-account.json"
+hash = "d78dc20a3b7e73e8cf534efdf7970d539d78085e8d01fd952e0e5c9dd8292839"
+
+[[files]]
+file = "config/prometheus_exporter-server.toml"
+hash = "7196f6c6201619acf8bae4ac474daa4316c5802b84d77db8efee1c985b8ced16"
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "e511d068e43fd6d1f3e1db102a5e54906342e052b97baf9bc46b86fe0232bd3d"
 metafile = true
