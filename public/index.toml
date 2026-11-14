@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/geolosys-common.toml"
+hash = "c992bb7babc19e6ad9f28f9bb0f681b55e67ab00dbc600a19785327e6be66232"
+
+[[files]]
 file = "config/prometheus_exporter-server.toml"
 hash = "7196f6c6201619acf8bae4ac474daa4316c5802b84d77db8efee1c985b8ced16"
 

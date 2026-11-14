@@ -1,0 +1,27 @@
+#Feature Control
+["feature control"]
+	#Output info into the logs when generating Geolosys deposits
+	debugWorldgen = false
+	#Setting this to true will flat out replace all Vein blocks (Copper + Granite Veins and Iron + Tuff Veins)
+	# Otherwise, setting to false will allow you to replace vanilla ores associated with ore veins with geolosys equivalents.
+	removeVeinOres = false
+
+#Prospecting Options
+[prospecting]
+	#The number of times Geolosys will attempt to place plutons in a given chunk
+	# Default: 2
+	# Range: > 1
+	numPlutonsPerChunk = 20
+	#The upper limit of RNG for generating any pluton in a given chunk.
+	#Larger values indicate further distance between plutons.
+	# Default: 0.9
+	# Range: 0.0 ~ 1.0
+	chunkSkipChance = 0.9
+	#The range (depth) of the prospector's pick prospecting cycle
+	# Default: 5
+	# Range: > 1
+	proPickRange = 5
+	#The diameter of the prospector's pick prospecting cycle
+	# Default: 5
+	# Range: > 1
+	proPickDiameter = 5
