@@ -144,6 +144,11 @@ hash = "3752b1dcdfebbb1e79c97c847095153155d64636576a9c0ac11ffa6506c62922"
 metafile = true
 
 [[files]]
+file = "mods/create-coincraft.pw.toml"
+hash = "f9262f2596be783fc11dc7e0e0939383d14d4230e9c105ea06d67e10d2c90d3b"
+metafile = true
+
+[[files]]
 file = "mods/create-compatible-storage.pw.toml"
 hash = "afeff218ff2279635376096eeae0c8963345804d145514d15fa8644d60352616"
 metafile = true
@@ -221,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "157b009cd9b2a7f55f2b7d0abdc2f9f7d49eade208a786c71cc6d2f8430bba4a"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-chicken.pw.toml"
+hash = "bc5c6f8ea0e3a739da6977506ebeece414c737066660134d3c2469be94677618"
 metafile = true
 
 [[files]]

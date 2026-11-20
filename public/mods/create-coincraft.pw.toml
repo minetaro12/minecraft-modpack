@@ -1,0 +1,13 @@
+name = "Create: CoinCraft"
+filename = "coincraft-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oHJc6Ier/versions/dthyatWi/coincraft-1.2.0.jar"
+hash-format = "sha512"
+hash = "ccda8b25c9a731c1e53fe90c94b8b9ba008f867454017a82feb09a7d85fe9b1c0c45d3beb5fbf2bde722d146860ff36b304b4e265f4500db7f30883f881c6e98"
+
+[update]
+[update.modrinth]
+mod-id = "oHJc6Ier"
+version = "dthyatWi"
