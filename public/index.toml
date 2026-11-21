@@ -619,6 +619,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/no-more-phantoms.pw.toml"
+hash = "f60dc0b5a82622b63d90ce05fb01bb0b0294cff7393dff81043fa84c5327b16e"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "840eb517a83c586b9f543ab9781d4c8529b6fedf2d679f411577c7a583e50fe5"
 metafile = true
